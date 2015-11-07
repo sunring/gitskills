@@ -12,3 +12,5 @@ dev test
 branch feature3
 
 fast forward
+
+stash
