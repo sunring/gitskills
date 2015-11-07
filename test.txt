@@ -10,3 +10,5 @@ test 222
 dev test
 
 branch feature3
+
+fast forward
